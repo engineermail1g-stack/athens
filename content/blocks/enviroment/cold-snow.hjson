@@ -1,3 +1,0 @@
-type: StaticWall
-variants: 2
-variantRegions: [cold-snow1, cold-snow2]
