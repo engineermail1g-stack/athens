@@ -1,0 +1,8 @@
+name: "athens"
+displayName: "This isn't a mod."
+author: [#7799f]En[#88aaf]gi[#fffff]ne[#eeeee]er
+description: "a mod about a icey planet with plant life and... other."
+version: "in the beginning"
+minGameVersion: "160.1"
+dependencies: [ ]
+
