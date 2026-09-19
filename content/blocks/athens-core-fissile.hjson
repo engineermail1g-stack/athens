@@ -2,12 +2,6 @@ type: CoreBlock
 name: Core: Fissile
 description: the nest.
 
-
-requirements: [
-  copper/1200
-]
-
-
 isFirstTier: true
 size: 4
 alwaysUnlocked: true
