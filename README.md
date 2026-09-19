@@ -8,4 +8,4 @@ plan of today:
 - bushes, ferns, trees and some env terrain blocks or whatever
 - lore??!?/!??!/1
 - floor/wall ores, maybe
-- the hive (im not gonna tell you want it is :3
+- the hive (im not gonna tell you want it is :3)
