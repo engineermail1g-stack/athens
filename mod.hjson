@@ -1,10 +1,8 @@
 name: "athens"
 displayName: "athens (in test)"
-author: "[#7799f[]]engineer
-
-[accent]contributors:[]
-none sadly"
-description: "a mod about a icey planet with plant life and... other."
-version: "this is called-"
+author: "[#7799f[]]En[#88aaf[]]gi[#fffff[]]ne[#eeeee[]]er[]"
+description: "a mod about a icey planet with plant life and... other lifeforms lurking.
+this is a solo project, dont expect any accepted contributions"
+version: "this is called"
 minGameVersion: "160.1"
 dependencies: [ ]
