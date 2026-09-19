@@ -1,6 +1,9 @@
 name: "athens"
 displayName: "athens (in test)"
-author: "[#7799f]En[#88aaf]gi[#fffff]ne[#eeeee]er"
+author: "[#7799f[]]engineer
+
+[accent]contributors:[]
+none sadly"
 description: "a mod about a icey planet with plant life and... other."
 version: "this is called-"
 minGameVersion: "160.1"
