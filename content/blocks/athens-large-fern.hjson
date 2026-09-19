@@ -1,0 +1,10 @@
+type: Seabush
+
+spread: 5.0
+lobesMin: 3.0
+lobesMax: 6.0
+replaceable: false
+placeableOn: false
+instantDeconstruct: false
+rebuildable: false
+breakable: false
