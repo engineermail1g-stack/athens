@@ -1,2 +1,3 @@
 type: StaticWall
-//just sno
+variants: 2
+variantRegions: [cold-snow-wall1, cold-snow-wall2]
